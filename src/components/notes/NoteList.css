@@ -1,0 +1,30 @@
+.NoteList .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.NoteList .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.NoteList .lander p {
+  color: #999;
+}
+
+.NoteList .lander div {
+  padding-top: 20px;
+}
+.NoteList .lander div a:first-child {
+  margin-right: 20px;
+}
+.NoteList .notes h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  overflow: hidden;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}.NoteList .notes p {
+  color: #666;
+}
